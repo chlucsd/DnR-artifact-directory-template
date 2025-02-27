@@ -1,5 +1,7 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Contextual Latent Exploration for Adaptive Representation
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Understanding hidden neurons in vision models is key to improving interpretability. Describe-and-Dissect (DnD) is a training-free method that generates highly rated neuron explanations without labeled data or retraining. However, its adaptability across contexts is limited. 
+
+We introduce CLEAR (Contextual Latent Exploration for Adaptive Representation) to enhance DnD by improving context adaptability. Using image corruptions, filters, and blurring techniques, CLEAR makes neural network explanations more robust and generalizable across diverse visual environments.
